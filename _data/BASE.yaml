@@ -1,0 +1,75 @@
+- Name: Wood
+  Weight: '2'
+  Biome: ''
+  Notes: ''
+  Category: Wood
+- Name: Fine Wood
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Core Wood
+  Weight: ''
+  Biome: Black Forest
+  Notes: ''
+  Category: ''
+- Name: Stone
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Bone Fragments
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Dandelion
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Bronze Nails
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Copper Ore
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Copper
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Tin Ore
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Tin
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Bronze
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Coal
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Raw Meat
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
+- Name: Cooked Meat
+  Weight: ''
+  Biome: ''
+  Notes: ''
+  Category: ''
