@@ -1,0 +1,45 @@
+- Result: Bronze
+  Quantity: '1'
+  Ingredient: Copper
+  Ingredient Quantity: '2'
+  Logical Operator: AND
+- Result: Bronze
+  Quantity: '1'
+  Ingredient: Tin
+  Ingredient Quantity: '1'
+  Logical Operator: AND
+- Result: Bronze
+  Quantity: '5'
+  Ingredient: Copper
+  Ingredient Quantity: '10'
+  Logical Operator: AND
+- Result: Bronze
+  Quantity: '5'
+  Ingredient: Copper
+  Ingredient Quantity: '5'
+  Logical Operator: AND
+- Result: Bronze Nails
+  Quantity: '10'
+  Ingredient: Bronze
+  Ingredient Quantity: '1'
+  Logical Operator: ''
+- Result: Coal
+  Quantity: '1'
+  Ingredient: Wood
+  Ingredient Quantity: '1'
+  Logical Operator: OR
+- Result: Coal
+  Quantity: '1'
+  Ingredient: Raw Meat
+  Ingredient Quantity: '1'
+  Logical Operator: OR
+- Result: Coal
+  Quantity: '1'
+  Ingredient: Fine Wood
+  Ingredient Quantity: '1'
+  Logical Operator: OR
+- Result: Coal
+  Quantity: '1'
+  Ingredient: Core Wood
+  Ingredient Quantity: '1'
+  Logical Operator: OR
